@@ -1,5 +1,5 @@
 
-const a = "Hola mi ñeri";
+const a = "Hola mi compiñeri";
 
 console.log(a);
 
